@@ -1,22 +1,4 @@
 {
-  "pages/index.page.mdx": {
-    "file": "assets/pages/index.page.b5d4e3f9.js",
-    "src": "pages/index.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js"
-    ]
-  },
-  "pages/lectures.page.mdx": {
-    "file": "assets/pages/lectures.page.8aed3515.js",
-    "src": "pages/lectures.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js"
-    ]
-  },
   "junk/code-blocks.page.mdx": {
     "file": "assets/junk/code-blocks.page.a8a1e370.js",
     "src": "junk/code-blocks.page.mdx",
@@ -54,6 +36,24 @@
     "imports": [
       "_chunk-14d409af.js",
       "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/index.page.mdx": {
+    "file": "assets/pages/index.page.b5d4e3f9.js",
+    "src": "pages/index.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js"
+    ]
+  },
+  "pages/lectures.page.mdx": {
+    "file": "assets/pages/lectures.page.8aed3515.js",
+    "src": "pages/lectures.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js"
     ]
   },
   "renderer/_default.page.client.jsx": {
@@ -359,7 +359,7 @@
     ]
   },
   "pages/projects/index.page.mdx": {
-    "file": "assets/pages/projects/index.page.8ce9930c.js",
+    "file": "assets/pages/projects/index.page.ca80d52d.js",
     "src": "pages/projects/index.page.mdx",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -383,16 +383,6 @@
     "isDynamicEntry": true,
     "imports": [
       "_chunk-14d409af.js"
-    ]
-  },
-  "pages/projects/final/index.page.mdx": {
-    "file": "assets/pages/projects/final/index.page.f14d7493.js",
-    "src": "pages/projects/final/index.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js",
-      "_chunk-b66c7dfa.js"
     ]
   },
   "pages/internal/uhvd9823busdv8hf832/index.page.mdx": {
@@ -422,67 +412,13 @@
       "_chunk-14d409af.js"
     ]
   },
-  "pages/projects/raster/1-algo-ans.page.mdx": {
-    "file": "assets/pages/projects/raster/1-algo-ans.page.fc5a593e.js",
-    "src": "pages/projects/raster/1-algo-ans.page.mdx",
+  "pages/projects/final/index.page.mdx": {
+    "file": "assets/pages/projects/final/index.page.f14d7493.js",
+    "src": "pages/projects/final/index.page.mdx",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_chunk-14d409af.js",
-      "_chunk-b66c7dfa.js"
-    ]
-  },
-  "pages/projects/raster/1-algo.page.mdx": {
-    "file": "assets/pages/projects/raster/1-algo.page.56f0679e.js",
-    "src": "pages/projects/raster/1-algo.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js",
-      "_chunk-b66c7dfa.js"
-    ]
-  },
-  "pages/projects/raster/1.page.mdx": {
-    "file": "assets/pages/projects/raster/1.page.f585693f.js",
-    "src": "pages/projects/raster/1.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js",
-      "_chunk-66c40c41.js",
-      "_chunk-b66c7dfa.js"
-    ]
-  },
-  "pages/projects/raster/2-algo-ans.page.mdx": {
-    "file": "assets/pages/projects/raster/2-algo-ans.page.4ce35fc4.js",
-    "src": "pages/projects/raster/2-algo-ans.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js",
-      "_chunk-66c40c41.js",
-      "_chunk-b66c7dfa.js"
-    ]
-  },
-  "pages/projects/raster/2-algo.page.mdx": {
-    "file": "assets/pages/projects/raster/2-algo.page.1001644f.js",
-    "src": "pages/projects/raster/2-algo.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js",
-      "_chunk-66c40c41.js",
-      "_chunk-b66c7dfa.js"
-    ]
-  },
-  "pages/projects/raster/2.page.mdx": {
-    "file": "assets/pages/projects/raster/2.page.9b331bbf.js",
-    "src": "pages/projects/raster/2.page.mdx",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_chunk-14d409af.js",
-      "_chunk-66c40c41.js",
       "_chunk-b66c7dfa.js"
     ]
   },
@@ -544,6 +480,70 @@
   "pages/projects/ray/2.page.mdx": {
     "file": "assets/pages/projects/ray/2.page.4e8c07a4.js",
     "src": "pages/projects/ray/2.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js",
+      "_chunk-66c40c41.js",
+      "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/projects/raster/1-algo-ans.page.mdx": {
+    "file": "assets/pages/projects/raster/1-algo-ans.page.fc5a593e.js",
+    "src": "pages/projects/raster/1-algo-ans.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js",
+      "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/projects/raster/1-algo.page.mdx": {
+    "file": "assets/pages/projects/raster/1-algo.page.56f0679e.js",
+    "src": "pages/projects/raster/1-algo.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js",
+      "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/projects/raster/1.page.mdx": {
+    "file": "assets/pages/projects/raster/1.page.f585693f.js",
+    "src": "pages/projects/raster/1.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js",
+      "_chunk-66c40c41.js",
+      "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/projects/raster/2-algo-ans.page.mdx": {
+    "file": "assets/pages/projects/raster/2-algo-ans.page.4ce35fc4.js",
+    "src": "pages/projects/raster/2-algo-ans.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js",
+      "_chunk-66c40c41.js",
+      "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/projects/raster/2-algo.page.mdx": {
+    "file": "assets/pages/projects/raster/2-algo.page.1001644f.js",
+    "src": "pages/projects/raster/2-algo.page.mdx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-14d409af.js",
+      "_chunk-66c40c41.js",
+      "_chunk-b66c7dfa.js"
+    ]
+  },
+  "pages/projects/raster/2.page.mdx": {
+    "file": "assets/pages/projects/raster/2.page.9b331bbf.js",
+    "src": "pages/projects/raster/2.page.mdx",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -618,7 +618,7 @@
     ]
   },
   "node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js": {
-    "file": "assets/entry-client-routing.4bcc9d68.js",
+    "file": "assets/entry-client-routing.0fb0364c.js",
     "src": "node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js",
     "isEntry": true,
     "imports": [
@@ -689,7 +689,7 @@
     ]
   },
   "node_modules/vite-plugin-ssr/dist/esm/client/entry.js": {
-    "file": "assets/entry-server-routing.f5f58e23.js",
+    "file": "assets/entry-server-routing.a40c7468.js",
     "src": "node_modules/vite-plugin-ssr/dist/esm/client/entry.js",
     "isEntry": true,
     "imports": [
