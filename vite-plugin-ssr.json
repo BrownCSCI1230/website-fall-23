@@ -1,0 +1,7 @@
+{
+  "version": "0.4.9",
+  "usesClientRouter": true,
+  "baseUrl": "/website-fall-23/",
+  "baseAssets": null,
+  "includeAssetsImportedByServer": true
+}
